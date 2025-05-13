@@ -1,0 +1,9 @@
+/admin
+anatest
+anaban.wcp.lola@gmail.com
+kikuchi22
+
+
+git
+username: anaban
+email: anaban.wcp.lola@gmail.com
